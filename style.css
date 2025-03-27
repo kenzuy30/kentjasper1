@@ -11,7 +11,7 @@
 
 #banner .container {
     height: 70vh;
-    background: url('./broken.jpg');
+    background: url('./rrey.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 30px;
@@ -21,7 +21,7 @@
 
 #company {
     padding: 50px 0;
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid rgb(0, 0, 0);
 }
 #company img {
     width: 60%; 
